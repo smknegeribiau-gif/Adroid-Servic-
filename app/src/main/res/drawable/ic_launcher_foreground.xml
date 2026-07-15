@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered within 66dp area (from 21 to 87) -->
+    <!-- PC monitor, Printer, and Servicing wrench tool -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,30h40c2.2,0 4,1.8 4,4v24c0,2.2 -1.8,4 -4,4H24c-2.2,0 -4,-1.8 -4,-4V34c0,-2.2 1.8,-4 4,-4z" />
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M28,34h32v18H28z" />
+    <!-- Stand -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,62h8v6h-8z M34,68h20v2H34z" />
+    <!-- Printer -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M58,54h26c1.1,0 2,0.9 2,2v16H56V56c0,-1.1 0.9,-2 2,-2z" />
+    <!-- Printer paper -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M62,48h18v6H62z M60,70h22v6H60z" />
+    <!-- Servicing wrench tool -->
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M76,30c-1.5,0 -2.9,0.5 -4,1.3l-6,-6c-0.8,-0.8 -2.1,-0.8 -2.8,0s-0.8,2.1 0,2.8l6,6C68.5,35.1 68,36.5 68,38c0,2.5 1.5,4.6 3.7,5.5l-8,8c-0.4,0.4 -0.4,1 0,1.4l2.8,2.8c0.4,0.4 1,0.4 1.4,0l8,-8C75.4,40 76,40.5 76,40.5c3,0 5.5,-2.5 5.5,-5.5S79,30 76,30z" />
+</vector>
